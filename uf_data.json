@@ -1,0 +1,3652 @@
+[
+    {
+        "id": 6,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29061.89,
+        "fechaIndicador": "2021-01-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 7,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29062.83,
+        "fechaIndicador": "2021-01-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 8,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29063.76,
+        "fechaIndicador": "2021-01-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 9,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29064.7,
+        "fechaIndicador": "2021-01-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 10,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29065.64,
+        "fechaIndicador": "2021-01-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 11,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29066.58,
+        "fechaIndicador": "2021-01-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 12,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29067.52,
+        "fechaIndicador": "2020-01-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 13,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29068.46,
+        "fechaIndicador": "2020-01-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 14,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29069.39,
+        "fechaIndicador": "2020-01-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 46,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29149.08,
+        "fechaIndicador": "2021-02-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 47,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29146.26,
+        "fechaIndicador": "2021-02-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 48,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29143.44,
+        "fechaIndicador": "2021-02-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 49,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29140.63,
+        "fechaIndicador": "2021-02-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 50,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29137.81,
+        "fechaIndicador": "2021-02-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 51,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29135,
+        "fechaIndicador": "2021-02-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 52,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29132.18,
+        "fechaIndicador": "2021-02-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 53,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29129.37,
+        "fechaIndicador": "2021-02-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 54,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29126.55,
+        "fechaIndicador": "2021-02-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 55,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29123.74,
+        "fechaIndicador": "2021-01-31",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 56,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29120.92,
+        "fechaIndicador": "2021-01-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 57,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29118.11,
+        "fechaIndicador": "2021-01-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 58,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29115.3,
+        "fechaIndicador": "2021-01-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 59,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29112.48,
+        "fechaIndicador": "2021-01-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 60,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29109.67,
+        "fechaIndicador": "2021-01-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 61,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29106.86,
+        "fechaIndicador": "2021-01-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 62,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29104.04,
+        "fechaIndicador": "2021-01-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 63,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29101.23,
+        "fechaIndicador": "2021-01-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 64,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29098.42,
+        "fechaIndicador": "2021-01-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 65,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29095.61,
+        "fechaIndicador": "2021-01-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 66,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29092.8,
+        "fechaIndicador": "2021-01-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 67,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29089.99,
+        "fechaIndicador": "2021-01-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 68,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29087.18,
+        "fechaIndicador": "2021-01-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 69,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29084.36,
+        "fechaIndicador": "2021-01-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 70,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29081.55,
+        "fechaIndicador": "2021-01-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 71,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29078.74,
+        "fechaIndicador": "2021-01-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 72,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29075.93,
+        "fechaIndicador": "2021-01-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 73,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29073.13,
+        "fechaIndicador": "2021-01-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 74,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29070.32,
+        "fechaIndicador": "2021-01-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 75,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29067.51,
+        "fechaIndicador": "2021-01-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 76,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29064.7,
+        "fechaIndicador": "2021-01-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 205,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29353.12,
+        "fechaIndicador": "2021-03-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 206,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29345.81,
+        "fechaIndicador": "2021-03-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 207,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29338.5,
+        "fechaIndicador": "2021-03-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 208,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29331.19,
+        "fechaIndicador": "2021-03-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 209,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29323.89,
+        "fechaIndicador": "2021-03-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 210,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29316.58,
+        "fechaIndicador": "2021-03-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 211,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29309.28,
+        "fechaIndicador": "2021-03-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 212,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29301.98,
+        "fechaIndicador": "2021-03-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 213,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29294.68,
+        "fechaIndicador": "2021-03-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 214,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29287.38,
+        "fechaIndicador": "2021-02-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 215,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29280.09,
+        "fechaIndicador": "2021-02-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 216,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29272.79,
+        "fechaIndicador": "2021-02-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 217,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29265.5,
+        "fechaIndicador": "2021-02-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 218,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29258.21,
+        "fechaIndicador": "2021-02-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 219,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29250.92,
+        "fechaIndicador": "2021-02-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 220,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29243.64,
+        "fechaIndicador": "2021-02-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 221,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29236.35,
+        "fechaIndicador": "2021-02-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 222,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29229.07,
+        "fechaIndicador": "2021-02-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 223,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29221.79,
+        "fechaIndicador": "2021-02-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 224,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29214.51,
+        "fechaIndicador": "2021-02-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 225,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29207.23,
+        "fechaIndicador": "2021-02-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 226,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29199.96,
+        "fechaIndicador": "2021-02-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 227,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29192.68,
+        "fechaIndicador": "2021-02-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 228,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29185.41,
+        "fechaIndicador": "2021-02-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 229,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29178.14,
+        "fechaIndicador": "2021-02-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 230,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29170.87,
+        "fechaIndicador": "2021-02-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 231,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29163.61,
+        "fechaIndicador": "2021-02-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 232,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29156.34,
+        "fechaIndicador": "2021-02-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 354,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29411.83,
+        "fechaIndicador": "2021-04-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 355,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29409.93,
+        "fechaIndicador": "2021-04-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 356,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29408.04,
+        "fechaIndicador": "2021-04-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 357,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29406.14,
+        "fechaIndicador": "2021-04-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 358,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29404.24,
+        "fechaIndicador": "2021-04-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 359,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29402.35,
+        "fechaIndicador": "2021-04-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 360,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29400.45,
+        "fechaIndicador": "2021-04-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 361,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29398.56,
+        "fechaIndicador": "2021-04-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 362,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29396.67,
+        "fechaIndicador": "2021-04-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 363,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29394.77,
+        "fechaIndicador": "2021-03-31",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 364,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29392.88,
+        "fechaIndicador": "2021-03-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 365,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29390.98,
+        "fechaIndicador": "2021-03-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 366,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29389.09,
+        "fechaIndicador": "2021-03-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 367,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29387.19,
+        "fechaIndicador": "2021-03-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 368,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29385.3,
+        "fechaIndicador": "2021-03-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 369,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29383.41,
+        "fechaIndicador": "2021-03-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 370,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29381.51,
+        "fechaIndicador": "2021-03-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 371,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29379.62,
+        "fechaIndicador": "2021-03-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 372,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29377.72,
+        "fechaIndicador": "2021-03-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 373,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29375.83,
+        "fechaIndicador": "2021-03-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 374,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29373.94,
+        "fechaIndicador": "2021-03-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 375,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29372.04,
+        "fechaIndicador": "2021-03-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 376,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29370.15,
+        "fechaIndicador": "2021-03-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 377,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29368.26,
+        "fechaIndicador": "2021-03-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 378,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29366.37,
+        "fechaIndicador": "2021-03-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 379,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29364.47,
+        "fechaIndicador": "2021-03-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 380,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29362.58,
+        "fechaIndicador": "2021-03-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 381,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29360.69,
+        "fechaIndicador": "2021-03-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 382,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29358.8,
+        "fechaIndicador": "2021-03-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 383,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29356.9,
+        "fechaIndicador": "2021-03-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 384,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29355.01,
+        "fechaIndicador": "2021-03-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 518,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29529.48,
+        "fechaIndicador": "2021-05-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 519,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29525.55,
+        "fechaIndicador": "2021-05-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 520,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29521.62,
+        "fechaIndicador": "2021-05-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 521,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29517.69,
+        "fechaIndicador": "2021-05-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 522,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29513.76,
+        "fechaIndicador": "2021-05-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 523,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29509.84,
+        "fechaIndicador": "2021-05-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 524,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29505.91,
+        "fechaIndicador": "2021-05-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 525,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29501.98,
+        "fechaIndicador": "2021-05-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 526,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29498.06,
+        "fechaIndicador": "2021-05-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 527,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29494.13,
+        "fechaIndicador": "2021-04-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 528,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29490.21,
+        "fechaIndicador": "2021-04-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 529,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29486.29,
+        "fechaIndicador": "2021-04-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 530,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29482.36,
+        "fechaIndicador": "2021-04-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 531,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29478.44,
+        "fechaIndicador": "2021-04-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 532,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29474.52,
+        "fechaIndicador": "2021-04-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 533,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29470.59,
+        "fechaIndicador": "2021-04-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 534,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29466.67,
+        "fechaIndicador": "2021-04-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 535,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29462.75,
+        "fechaIndicador": "2021-04-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 536,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29458.83,
+        "fechaIndicador": "2021-04-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 537,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29454.91,
+        "fechaIndicador": "2021-04-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 538,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29450.99,
+        "fechaIndicador": "2021-04-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 539,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29447.07,
+        "fechaIndicador": "2021-04-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 540,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29443.16,
+        "fechaIndicador": "2021-04-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 541,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29439.24,
+        "fechaIndicador": "2021-04-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 542,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29435.32,
+        "fechaIndicador": "2021-04-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 543,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29431.41,
+        "fechaIndicador": "2021-04-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 544,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29427.49,
+        "fechaIndicador": "2021-04-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 545,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29423.57,
+        "fechaIndicador": "2021-04-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 546,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29419.66,
+        "fechaIndicador": "2021-04-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 547,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29415.74,
+        "fechaIndicador": "2021-04-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 676,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29647.6,
+        "fechaIndicador": "2021-06-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 677,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29643.78,
+        "fechaIndicador": "2021-06-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 678,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29639.96,
+        "fechaIndicador": "2021-06-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 679,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29636.15,
+        "fechaIndicador": "2021-06-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 680,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29632.33,
+        "fechaIndicador": "2021-06-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 681,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29628.51,
+        "fechaIndicador": "2021-06-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 682,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29624.7,
+        "fechaIndicador": "2021-06-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 683,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29620.88,
+        "fechaIndicador": "2021-06-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 684,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29617.07,
+        "fechaIndicador": "2021-06-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 685,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29613.26,
+        "fechaIndicador": "2021-05-31",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 686,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29609.44,
+        "fechaIndicador": "2021-05-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 687,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29605.63,
+        "fechaIndicador": "2021-05-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 688,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29601.82,
+        "fechaIndicador": "2021-05-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 689,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29598.01,
+        "fechaIndicador": "2021-05-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 690,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29594.2,
+        "fechaIndicador": "2021-05-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 691,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29590.39,
+        "fechaIndicador": "2021-05-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 692,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29586.57,
+        "fechaIndicador": "2021-05-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 693,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29582.77,
+        "fechaIndicador": "2021-05-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 694,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29578.96,
+        "fechaIndicador": "2021-05-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 695,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29575.15,
+        "fechaIndicador": "2021-05-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 696,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29571.34,
+        "fechaIndicador": "2021-05-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 697,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29567.53,
+        "fechaIndicador": "2021-05-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 698,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29563.72,
+        "fechaIndicador": "2021-05-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 699,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29559.92,
+        "fechaIndicador": "2021-05-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 700,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29556.11,
+        "fechaIndicador": "2021-05-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 701,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29552.3,
+        "fechaIndicador": "2021-05-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 702,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29548.5,
+        "fechaIndicador": "2021-05-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 703,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29544.69,
+        "fechaIndicador": "2021-05-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 704,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29540.89,
+        "fechaIndicador": "2021-05-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 705,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29537.09,
+        "fechaIndicador": "2021-05-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 706,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29533.28,
+        "fechaIndicador": "2021-05-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 837,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29736.54,
+        "fechaIndicador": "2021-07-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 838,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29733.57,
+        "fechaIndicador": "2021-07-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 839,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29730.6,
+        "fechaIndicador": "2021-07-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 840,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29727.64,
+        "fechaIndicador": "2021-07-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 841,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29724.67,
+        "fechaIndicador": "2021-07-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 842,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29721.7,
+        "fechaIndicador": "2021-07-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 843,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29718.73,
+        "fechaIndicador": "2021-07-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 844,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29715.77,
+        "fechaIndicador": "2021-07-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 845,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29712.8,
+        "fechaIndicador": "2021-07-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 846,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29709.83,
+        "fechaIndicador": "2021-06-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 847,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29706.87,
+        "fechaIndicador": "2021-06-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 848,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29703.9,
+        "fechaIndicador": "2021-06-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 849,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29700.93,
+        "fechaIndicador": "2021-06-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 850,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29697.97,
+        "fechaIndicador": "2021-06-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 851,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29695,
+        "fechaIndicador": "2021-06-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 852,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29692.04,
+        "fechaIndicador": "2021-06-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 853,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29689.07,
+        "fechaIndicador": "2021-06-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 854,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29686.11,
+        "fechaIndicador": "2021-06-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 855,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29683.15,
+        "fechaIndicador": "2021-06-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 856,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29680.18,
+        "fechaIndicador": "2021-06-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 857,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29677.22,
+        "fechaIndicador": "2021-06-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 858,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29674.25,
+        "fechaIndicador": "2021-06-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 859,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29671.29,
+        "fechaIndicador": "2021-06-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 860,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29668.33,
+        "fechaIndicador": "2021-06-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 861,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29665.37,
+        "fechaIndicador": "2021-06-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 862,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29662.41,
+        "fechaIndicador": "2021-06-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 863,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29659.44,
+        "fechaIndicador": "2021-06-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 864,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29656.48,
+        "fechaIndicador": "2021-06-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 865,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29653.52,
+        "fechaIndicador": "2021-06-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 866,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29650.56,
+        "fechaIndicador": "2021-06-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 990,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29766.28,
+        "fechaIndicador": "2021-08-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 991,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29765.32,
+        "fechaIndicador": "2021-08-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 992,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29764.36,
+        "fechaIndicador": "2021-08-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 993,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29763.4,
+        "fechaIndicador": "2021-08-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 994,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29762.44,
+        "fechaIndicador": "2021-08-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 995,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29761.48,
+        "fechaIndicador": "2021-08-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 996,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29760.52,
+        "fechaIndicador": "2021-08-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 997,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29759.56,
+        "fechaIndicador": "2021-08-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 998,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29758.6,
+        "fechaIndicador": "2021-08-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 999,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29757.64,
+        "fechaIndicador": "2021-07-31",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1000,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29756.68,
+        "fechaIndicador": "2021-07-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1001,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29755.72,
+        "fechaIndicador": "2021-07-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1002,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29754.76,
+        "fechaIndicador": "2021-07-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1003,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29753.8,
+        "fechaIndicador": "2021-07-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1004,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29752.84,
+        "fechaIndicador": "2021-07-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1005,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29751.88,
+        "fechaIndicador": "2021-07-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1006,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29750.92,
+        "fechaIndicador": "2021-07-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1007,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29749.97,
+        "fechaIndicador": "2021-07-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1008,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29749.01,
+        "fechaIndicador": "2021-07-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1009,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29748.05,
+        "fechaIndicador": "2021-07-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1010,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29747.09,
+        "fechaIndicador": "2021-07-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1011,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29746.13,
+        "fechaIndicador": "2021-07-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1012,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29745.17,
+        "fechaIndicador": "2021-07-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1013,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29744.21,
+        "fechaIndicador": "2021-07-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1014,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29743.25,
+        "fechaIndicador": "2021-07-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1015,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29742.29,
+        "fechaIndicador": "2021-07-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1016,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29741.33,
+        "fechaIndicador": "2021-07-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1017,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29740.38,
+        "fechaIndicador": "2021-07-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1018,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29739.42,
+        "fechaIndicador": "2021-07-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1019,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29738.46,
+        "fechaIndicador": "2021-07-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1020,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29737.5,
+        "fechaIndicador": "2021-07-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1148,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30004.41,
+        "fechaIndicador": "2021-09-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1149,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29996.7,
+        "fechaIndicador": "2021-09-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1150,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29988.99,
+        "fechaIndicador": "2021-09-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1151,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29981.28,
+        "fechaIndicador": "2021-09-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1152,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29973.58,
+        "fechaIndicador": "2021-09-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1153,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29965.87,
+        "fechaIndicador": "2021-09-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1154,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29958.17,
+        "fechaIndicador": "2021-09-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1155,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29950.47,
+        "fechaIndicador": "2021-09-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1156,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29942.78,
+        "fechaIndicador": "2021-09-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1157,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29935.08,
+        "fechaIndicador": "2021-08-31",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1158,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29927.39,
+        "fechaIndicador": "2021-08-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1159,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29919.7,
+        "fechaIndicador": "2021-08-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1160,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29912.01,
+        "fechaIndicador": "2021-08-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1161,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29904.32,
+        "fechaIndicador": "2021-08-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1162,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29896.63,
+        "fechaIndicador": "2021-08-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1163,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29888.95,
+        "fechaIndicador": "2021-08-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1164,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29881.27,
+        "fechaIndicador": "2021-08-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1165,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29873.59,
+        "fechaIndicador": "2021-08-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1166,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29865.91,
+        "fechaIndicador": "2021-08-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1167,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29858.23,
+        "fechaIndicador": "2021-08-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1168,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29850.56,
+        "fechaIndicador": "2021-08-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1169,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29842.89,
+        "fechaIndicador": "2021-08-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1170,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29835.22,
+        "fechaIndicador": "2021-08-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1171,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29827.55,
+        "fechaIndicador": "2021-08-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1172,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29819.89,
+        "fechaIndicador": "2021-08-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1173,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29812.22,
+        "fechaIndicador": "2021-08-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1174,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29804.56,
+        "fechaIndicador": "2021-08-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1175,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29796.9,
+        "fechaIndicador": "2021-08-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1176,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29789.24,
+        "fechaIndicador": "2021-08-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1177,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29781.59,
+        "fechaIndicador": "2021-08-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1178,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 29773.93,
+        "fechaIndicador": "2021-08-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1315,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30124.43,
+        "fechaIndicador": "2021-10-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1316,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30120.42,
+        "fechaIndicador": "2021-10-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1317,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30116.41,
+        "fechaIndicador": "2021-10-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1318,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30112.4,
+        "fechaIndicador": "2021-10-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1319,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30108.4,
+        "fechaIndicador": "2021-10-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1320,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30104.39,
+        "fechaIndicador": "2021-10-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1321,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30100.39,
+        "fechaIndicador": "2021-10-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1322,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30096.38,
+        "fechaIndicador": "2021-10-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1323,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30092.38,
+        "fechaIndicador": "2021-10-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1324,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30088.37,
+        "fechaIndicador": "2021-09-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1325,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30084.37,
+        "fechaIndicador": "2021-09-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1326,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30080.37,
+        "fechaIndicador": "2021-09-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1327,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30076.36,
+        "fechaIndicador": "2021-09-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1328,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30072.36,
+        "fechaIndicador": "2021-09-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1329,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30068.36,
+        "fechaIndicador": "2021-09-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1330,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30064.36,
+        "fechaIndicador": "2021-09-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1331,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30060.36,
+        "fechaIndicador": "2021-09-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1332,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30056.36,
+        "fechaIndicador": "2021-09-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1333,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30052.36,
+        "fechaIndicador": "2021-09-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1334,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30048.36,
+        "fechaIndicador": "2021-09-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1335,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30044.36,
+        "fechaIndicador": "2021-09-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1336,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30040.36,
+        "fechaIndicador": "2021-09-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1337,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30036.37,
+        "fechaIndicador": "2021-09-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1338,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30032.37,
+        "fechaIndicador": "2021-09-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1339,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30028.38,
+        "fechaIndicador": "2021-09-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1340,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30024.38,
+        "fechaIndicador": "2021-09-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1341,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30020.38,
+        "fechaIndicador": "2021-09-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1342,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30016.39,
+        "fechaIndicador": "2021-09-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1343,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30012.4,
+        "fechaIndicador": "2021-09-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1344,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30008.4,
+        "fechaIndicador": "2021-09-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1440,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30485.92,
+        "fechaIndicador": "2021-11-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1441,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30474.19,
+        "fechaIndicador": "2021-11-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1442,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30462.47,
+        "fechaIndicador": "2021-11-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1443,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30450.75,
+        "fechaIndicador": "2021-11-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1444,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30439.04,
+        "fechaIndicador": "2021-11-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1445,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30427.33,
+        "fechaIndicador": "2021-11-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1446,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30415.62,
+        "fechaIndicador": "2021-11-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1447,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30403.92,
+        "fechaIndicador": "2021-11-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1448,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30392.22,
+        "fechaIndicador": "2021-11-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1449,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30380.53,
+        "fechaIndicador": "2021-10-31",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1450,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30368.84,
+        "fechaIndicador": "2021-10-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1451,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30357.16,
+        "fechaIndicador": "2021-10-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1452,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30345.48,
+        "fechaIndicador": "2021-10-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1453,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30333.8,
+        "fechaIndicador": "2021-10-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1454,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30322.13,
+        "fechaIndicador": "2021-10-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1455,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30310.47,
+        "fechaIndicador": "2021-10-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1456,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30298.81,
+        "fechaIndicador": "2021-10-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1457,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30287.15,
+        "fechaIndicador": "2021-10-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1458,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30275.5,
+        "fechaIndicador": "2021-10-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1459,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30263.85,
+        "fechaIndicador": "2021-10-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1460,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30252.21,
+        "fechaIndicador": "2021-10-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1461,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30240.57,
+        "fechaIndicador": "2021-10-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1462,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30228.94,
+        "fechaIndicador": "2021-10-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1463,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30217.31,
+        "fechaIndicador": "2021-10-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1464,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30205.68,
+        "fechaIndicador": "2021-10-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1465,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30194.06,
+        "fechaIndicador": "2021-10-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1466,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30182.44,
+        "fechaIndicador": "2021-10-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1467,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30170.83,
+        "fechaIndicador": "2021-10-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1468,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30159.23,
+        "fechaIndicador": "2021-10-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1469,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30147.62,
+        "fechaIndicador": "2021-10-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1470,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30136.02,
+        "fechaIndicador": "2021-10-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1627,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30882.24,
+        "fechaIndicador": "2021-12-09",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1628,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30868.94,
+        "fechaIndicador": "2021-12-08",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1629,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30855.66,
+        "fechaIndicador": "2021-12-07",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1630,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30842.37,
+        "fechaIndicador": "2021-12-06",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1631,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30829.1,
+        "fechaIndicador": "2021-12-05",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1632,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30815.83,
+        "fechaIndicador": "2021-12-04",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1633,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30802.56,
+        "fechaIndicador": "2021-12-03",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1634,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30789.3,
+        "fechaIndicador": "2021-12-02",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1635,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30776.05,
+        "fechaIndicador": "2021-12-01",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1636,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30762.8,
+        "fechaIndicador": "2021-11-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1637,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30749.56,
+        "fechaIndicador": "2021-11-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1638,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30736.33,
+        "fechaIndicador": "2021-11-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1639,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30723.1,
+        "fechaIndicador": "2021-11-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1640,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30709.87,
+        "fechaIndicador": "2021-11-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1641,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30696.65,
+        "fechaIndicador": "2021-11-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1642,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30683.44,
+        "fechaIndicador": "2021-11-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1643,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30670.23,
+        "fechaIndicador": "2021-11-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1644,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30657.03,
+        "fechaIndicador": "2021-11-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1645,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30643.83,
+        "fechaIndicador": "2021-11-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1646,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30630.64,
+        "fechaIndicador": "2021-11-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1647,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30617.46,
+        "fechaIndicador": "2021-11-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1648,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30604.28,
+        "fechaIndicador": "2021-11-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1649,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30591.1,
+        "fechaIndicador": "2021-11-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1650,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30577.94,
+        "fechaIndicador": "2021-11-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1651,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30564.77,
+        "fechaIndicador": "2021-11-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1652,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30551.62,
+        "fechaIndicador": "2021-11-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1653,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30538.47,
+        "fechaIndicador": "2021-11-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1654,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30525.32,
+        "fechaIndicador": "2021-11-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1655,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30512.18,
+        "fechaIndicador": "2021-11-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1656,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30499.05,
+        "fechaIndicador": "2021-11-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1784,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30991.74,
+        "fechaIndicador": "2021-12-31",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1785,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30986.76,
+        "fechaIndicador": "2021-12-30",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1786,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30981.77,
+        "fechaIndicador": "2021-12-29",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1787,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30976.79,
+        "fechaIndicador": "2021-12-28",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1788,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30971.8,
+        "fechaIndicador": "2021-12-27",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1789,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30966.82,
+        "fechaIndicador": "2021-12-26",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1790,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30961.84,
+        "fechaIndicador": "2021-12-25",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1791,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30956.86,
+        "fechaIndicador": "2021-12-24",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1792,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30951.88,
+        "fechaIndicador": "2021-12-23",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1793,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30946.9,
+        "fechaIndicador": "2021-12-22",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1794,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30941.92,
+        "fechaIndicador": "2021-12-21",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1795,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30936.94,
+        "fechaIndicador": "2021-12-20",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1796,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30931.97,
+        "fechaIndicador": "2021-12-19",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1797,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30926.99,
+        "fechaIndicador": "2021-12-18",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1798,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30922.01,
+        "fechaIndicador": "2021-12-17",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1799,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30917.04,
+        "fechaIndicador": "2021-12-16",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1800,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30912.07,
+        "fechaIndicador": "2021-12-15",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1801,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30907.09,
+        "fechaIndicador": "2021-12-14",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1802,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30902.12,
+        "fechaIndicador": "2021-12-13",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1803,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30897.15,
+        "fechaIndicador": "2021-12-12",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1804,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30892.18,
+        "fechaIndicador": "2021-12-11",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    },
+    {
+        "id": 1805,
+        "nombreIndicador": "UNIDAD DE FOMENTO (UF)",
+        "codigoIndicador": "UF",
+        "unidadMedidaIndicador": "Pesos",
+        "valorIndicador": 30887.21,
+        "fechaIndicador": "2021-12-10",
+        "tiempoIndicador": null,
+        "origenIndicador": "mindicador.cl"
+    }
+]
